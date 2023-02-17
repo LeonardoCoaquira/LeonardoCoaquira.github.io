@@ -1,0 +1,19 @@
+body {
+    background-color: #542437;
+}
+
+header {
+    background-color: #C02942;
+}
+
+main {
+    background-color: #D95B43;
+}
+
+footer {
+    background-color: #ECD078;
+}
+
+.title-text:hover {
+    background-color: white;
+}
